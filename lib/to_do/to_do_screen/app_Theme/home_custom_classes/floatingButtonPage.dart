@@ -97,8 +97,8 @@ class ButtonFlot extends StatelessWidget {
           });
         },
         child: Container(
-            height: 50,
-            width: 50,
+            height: 40,
+            width: 40,
             decoration: BoxDecoration(
                 color: isDarkMode ? Colors.teal.shade900 : Colors.teal,
                 borderRadius: BorderRadius.circular(10)
