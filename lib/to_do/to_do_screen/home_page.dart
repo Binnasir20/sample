@@ -248,7 +248,7 @@ class _HomePageState extends State<HomePage> {
                                     //       fontWeight: FontWeight.bold
                                     //   ),)
                                     SizedBox(
-                                      height: 40,
+                                      height: 50,
                                       child: TextField(
                                         controller: searchController,
                                         onChanged: filterTasksByKeyword,
